@@ -1,2 +1,2 @@
 # Rupino-Fashion
-ola
+Projeto mobile
